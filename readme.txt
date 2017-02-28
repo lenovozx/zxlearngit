@@ -6,3 +6,4 @@
 this is in master and featurel
 creating a new branch is quick and simple
 lalala
+git is a free software
